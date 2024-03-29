@@ -1,0 +1,2954 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "zotero"
+      ],
+      "properties": {
+        "name": "zotero"
+      },
+      "elementId": "0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "MySQL-3.pdf"
+      },
+      "elementId": "1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "MySQL-2.pdf"
+      },
+      "elementId": "2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "MySQL-1.pdf"
+      },
+      "elementId": "3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "高等数学习题册下册.pdf"
+      },
+      "elementId": "4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "地理知识图谱下的建筑群空间分布模式推理"
+      },
+      "elementId": "5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "学业预警知识图谱的构建与应用"
+      },
+      "elementId": "6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "基于知识图谱理念的生物医学电子学在线课程建设初步探索"
+      },
+      "elementId": "7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "《人工智能应用导论》知识图谱构建与应用研究"
+      },
+      "elementId": "8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "基于知识图谱的海洋数值预报数据推荐算法"
+      },
+      "elementId": "9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "算法竞赛入门经典"
+      },
+      "elementId": "10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "时态知识图谱的推理研究综述"
+      },
+      "elementId": "11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "《山海经》知识图谱构建与应用研究"
+      },
+      "elementId": "12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "高校IT运维知识图谱构建及应用"
+      },
+      "elementId": "13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "老妓抄"
+      },
+      "elementId": "14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "基于知识图谱与深度学习的推荐算法的应用研究_吴建华.pdf"
+      },
+      "elementId": "15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "英语四级.pdf"
+      },
+      "elementId": "16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "算法导论(中文版)(现代计算机常用数据结构和算法).pdf"
+      },
+      "elementId": "17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "disMath-chapt14-18.pdf"
+      },
+      "elementId": "18"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "disMath-chapt9-11.pdf"
+      },
+      "elementId": "19"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "disMath-chapt7-8.pdf"
+      },
+      "elementId": "20"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "disMath-chapt6.pdf"
+      },
+      "elementId": "21"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "pdf"
+      ],
+      "properties": {
+        "name": "知识论坛的教育知识图谱构建与可视化系统实现_薛增灿.pdf"
+      },
+      "elementId": "22"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "数据库"
+      },
+      "elementId": "23"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "数据库管 理系统"
+      },
+      "elementId": "24"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "SQL"
+      },
+      "elementId": "25"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "26"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "DML"
+      },
+      "elementId": "27"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "DQL"
+      },
+      "elementId": "28"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "DCL"
+      },
+      "elementId": "29"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "查询所有数据库"
+      },
+      "elementId": "30"
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "查询当前数据库"
+      },
+      "elementId": "31"
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "创建数据库"
+      },
+      "elementId": "32"
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "删除数据库"
+      },
+      "elementId": "33"
+    }
+  },
+  {
+    "n": {
+      "identity": 34,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "切换数据库"
+      },
+      "elementId": "34"
+    }
+  },
+  {
+    "n": {
+      "identity": 35,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "查询当前数据库所有表"
+      },
+      "elementId": "35"
+    }
+  },
+  {
+    "n": {
+      "identity": 36,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "查看指定表结构"
+      },
+      "elementId": "36"
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "查询指定表的建表语句"
+      },
+      "elementId": "37"
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "创建表结构"
+      },
+      "elementId": "38"
+    }
+  },
+  {
+    "n": {
+      "identity": 39,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "添加字段"
+      },
+      "elementId": "39"
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "修改数据类型"
+      },
+      "elementId": "40"
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "修改字段名和字段类型"
+      },
+      "elementId": "41"
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "删除字段"
+      },
+      "elementId": "42"
+    }
+  },
+  {
+    "n": {
+      "identity": 43,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "修改表名"
+      },
+      "elementId": "43"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "删除表"
+      },
+      "elementId": "44"
+    }
+  },
+  {
+    "n": {
+      "identity": 45,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "给指定字段添加数据"
+      },
+      "elementId": "45"
+    }
+  },
+  {
+    "n": {
+      "identity": 46,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "给全部字段添加数据"
+      },
+      "elementId": "46"
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "批量添加数据"
+      },
+      "elementId": "47"
+    }
+  },
+  {
+    "n": {
+      "identity": 48,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "修改数据"
+      },
+      "elementId": "48"
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "删除数据"
+      },
+      "elementId": "49"
+    }
+  },
+  {
+    "n": {
+      "identity": 50,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "查询多个字段"
+      },
+      "elementId": "50"
+    }
+  },
+  {
+    "n": {
+      "identity": 51,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "字段设置别名"
+      },
+      "elementId": "51"
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "去除重复记录"
+      },
+      "elementId": "52"
+    }
+  },
+  {
+    "n": {
+      "identity": 53,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "条件查询"
+      },
+      "elementId": "53"
+    }
+  },
+  {
+    "n": {
+      "identity": 54,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "分组查询"
+      },
+      "elementId": "54"
+    }
+  },
+  {
+    "n": {
+      "identity": 55,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "查询用户"
+      },
+      "elementId": "55"
+    }
+  },
+  {
+    "n": {
+      "identity": 56,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "创建用户"
+      },
+      "elementId": "56"
+    }
+  },
+  {
+    "n": {
+      "identity": 57,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "修改用户密码"
+      },
+      "elementId": "57"
+    }
+  },
+  {
+    "n": {
+      "identity": 58,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "删除用户"
+      },
+      "elementId": "58"
+    }
+  },
+  {
+    "n": {
+      "identity": 59,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "揭示学科的领域性知识结构和学习者的认知过程"
+      },
+      "elementId": "59"
+    }
+  },
+  {
+    "n": {
+      "identity": 60,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "图谱可 视化技术"
+      },
+      "elementId": "60"
+    }
+  },
+  {
+    "n": {
+      "identity": 61,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "图谱存储技术"
+      },
+      "elementId": "61"
+    }
+  },
+  {
+    "n": {
+      "identity": 62,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "实体关系挖掘技术"
+      },
+      "elementId": "62"
+    }
+  },
+  {
+    "n": {
+      "identity": 63,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "实体识别技术"
+      },
+      "elementId": "63"
+    }
+  },
+  {
+    "n": {
+      "identity": 64,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "获取数据源，即导出保存知识论坛半结构化数据"
+      },
+      "elementId": "64"
+    }
+  },
+  {
+    "n": {
+      "identity": 65,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "核心实体进行提取"
+      },
+      "elementId": "65"
+    }
+  },
+  {
+    "n": {
+      "identity": 66,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "Neo4j 图数据库"
+      },
+      "elementId": "66"
+    }
+  },
+  {
+    "n": {
+      "identity": 67,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "构词模式提取 上下位关系"
+      },
+      "elementId": "67"
+    }
+  },
+  {
+    "n": {
+      "identity": 68,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "提取关联关系"
+      },
+      "elementId": "68"
+    }
+  },
+  {
+    "n": {
+      "identity": 69,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "实体关系抽取"
+      },
+      "elementId": "69"
+    }
+  },
+  {
+    "n": {
+      "identity": 70,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "知识图谱的存储"
+      },
+      "elementId": "70"
+    }
+  },
+  {
+    "n": {
+      "identity": 71,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "概率性关联规则"
+      },
+      "elementId": "71"
+    }
+  },
+  {
+    "n": {
+      "identity": 72,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "条件随机场 CRF"
+      },
+      "elementId": "72"
+    }
+  },
+  {
+    "n": {
+      "identity": 73,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "LSA 算法、SVD 算法、余弦 距离计算相似度"
+      },
+      "elementId": "73"
+    }
+  },
+  {
+    "n": {
+      "identity": 74,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "皮尔逊相关系数，术语文档矩阵"
+      },
+      "elementId": "74"
+    }
+  },
+  {
+    "n": {
+      "identity": 75,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "Open IE 系统、共现分析、文 本特征、幻灯片结构特征"
+      },
+      "elementId": "75"
+    }
+  },
+  {
+    "n": {
+      "identity": 76,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "幻灯片文本位置、文本特 征、语法树"
+      },
+      "elementId": "76"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "多维尺度法、遗传算法"
+      },
+      "elementId": "77"
+    }
+  },
+  {
+    "n": {
+      "identity": 78,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "TF-IDF、VSM、相似度 计算"
+      },
+      "elementId": "78"
+    }
+  },
+  {
+    "n": {
+      "identity": 79,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "决策树分类器"
+      },
+      "elementId": "79"
+    }
+  },
+  {
+    "n": {
+      "identity": 80,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "TF-IDF"
+      },
+      "elementId": "80"
+    }
+  },
+  {
+    "n": {
+      "identity": 81,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "关系提取"
+      },
+      "elementId": "81"
+    }
+  },
+  {
+    "n": {
+      "identity": 82,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "实体识别"
+      },
+      "elementId": "82"
+    }
+  },
+  {
+    "n": {
+      "identity": 83,
+      "labels": [
+        "entity"
+      ],
+      "properties": {
+        "name": "数据源"
+      },
+      "elementId": "83"
+    }
+  },
+  {
+    "n": {
+      "identity": 84,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "数据查询语言，用来查询数据库中表的记录"
+      },
+      "elementId": "84"
+    }
+  },
+  {
+    "n": {
+      "identity": 85,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "数据控制语言，用来创建数据库用户、控制数据库的 访问权限"
+      },
+      "elementId": "85"
+    }
+  },
+  {
+    "n": {
+      "identity": 86,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "数据操作语言，用来对数据库表中的数据进行增删改"
+      },
+      "elementId": "86"
+    }
+  },
+  {
+    "n": {
+      "identity": 87,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "数据定义语言，用来定义数据库对象(数据库，表， 字段)"
+      },
+      "elementId": "87"
+    }
+  },
+  {
+    "n": {
+      "identity": 88,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "操作关系型数据库的编程语言，定义了一套操作 关系型数据库统一 标准"
+      },
+      "elementId": "88"
+    }
+  },
+  {
+    "n": {
+      "identity": 89,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "操纵和管理数据库的大型软件"
+      },
+      "elementId": "89"
+    }
+  },
+  {
+    "n": {
+      "identity": 90,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "存储数据的仓库，数据是有组织的进行存储"
+      },
+      "elementId": "90"
+    }
+  },
+  {
+    "n": {
+      "identity": 91,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "部 分 是 竞赛 篇 〈 第 9 一 11 章 )， 涉 及 竞赛 中 常用 的 其 他 知识 点 和 技巧 。 和 前 两 部 分 相 比 ， 第 3 部 分 涉及 的 内 容 更 加 广泛 ， 其 中 还包括 一 些难以 理解 的 “学 术 内 容 ”， 但 其 实 这 些 才 是 算法 的 精 艇 。"
+      },
+      "elementId": "91"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "部 分 是 算法 篇 (第 5 一 8 章 )， 在 介绍 算法 的 同时 继续 强化语言 ， 补 充 了 第 1 部 分 没有 涉及 的 语言 特性 ， 如 位 运算 、 动 态内 存 管理等， 并 延续 第 一 部 分 的 风格 ， 在 需要 时 引入 更 多 的 思想 和 技巧 。 学 习 完 前 两 部 分 的 读者 应 当 可 以 完成 相当 数量 的 练习 题"
+      },
+      "elementId": "92"
+    }
+  },
+  {
+    "n": {
+      "identity": 93,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "部 分 是 语言 篇 (第 1一 4 章 )， 纯 粹 介绍 语言 ， 几 乎 不 涉及 算法 ， 但 逐步 引入 一 些 工 程 性 的 东西 ， 如 测试 、 断 言 、 擅 代码 和 迭代 开发 等 。"
+      },
+      "elementId": "93"
+    }
+  },
+  {
+    "n": {
+      "identity": 94,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "证明：对于任意集合A, B, C，有(A − B) − C = (A − C) − (B − C). 证明：∀x，有: x ∈ (A − C) − (B − C) ⇔ x ∈ (A − C) ∧ x / ∈ (B − C) ⇔ (x ∈ A ∧ x / ∈ C) ∧ ¬(x ∈ B ∧ x / ∈ C) ⇔ (x ∈ A ∧ x / ∈ C) ∧ (x / ∈ B ∨ x ∈ C) ⇔ (x ∈ A ∧ x / ∈B∧x / ∈ C) ∨ (x ∈ A ∧ x / ∈ C ∧ x ∈ C) ⇔x∈A∧x / ∈B∧x / ∈C ⇔ x ∈ (A − B) − C 所以有：(A − B) − C = (A − C) − (B − C)."
+      },
+      "elementId": "94"
+    }
+  },
+  {
+    "n": {
+      "identity": 95,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "证明：对于任意集合A和B，P(A) ∩ P(B) = P(A ∩ B). 证明：设∀x ∈ P(A) ∩ P(B)，有： x ∈ P(A) ∩ P(B) ⇔ x ∈ P(A) ∧ x ∈ P(B) x⊆A∧x⊆B⇔x⊆A∩B x ∈ P(A ∩ B)"
+      },
+      "elementId": "95"
+    }
+  },
+  {
+    "n": {
+      "identity": 96,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "再由右边证明左边 ∀x ∈ (A ∩ B) ∪ C，有 x ∈ (A ∩ B) ∪ C ⇔ x ∈ A ∩ B ∨ x ∈ C ⇔ (x ∈ A ∧ x ∈ B) ∨ x ∈ C ⇔ (x ∈ A ∨ x ∈ C) ∧ (x ∈ B ∨ x ∈ C) ⇔ x ∈ A ∧ (x ∈ B ∨ x ∈ C) ⇔ x ∈ A ∩ (B ∪ C)"
+      },
+      "elementId": "96"
+    }
+  },
+  {
+    "n": {
+      "identity": 97,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "证明对于任意集合A, B, C，有: (A ∩ B) ∪ C = A ∩ (B ∪ C) iff C ⊆ A. 证明：先由左边证明右边 ∀x ∈ C，有x ∈ (A ∩ B) ∪ C ∵ (A ∩ B) ∪ C = A ∩ (B ∪ C) ∴ x ∈ A ∩ (B ∪ C) ∴x∈A∧x∈B∪C ∴x∈A ∴ C ⊆ A."
+      },
+      "elementId": "97"
+    }
+  },
+  {
+    "n": {
+      "identity": 98,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "证明：(A ⊕ B) ⊕ C = A ⊕ (B ⊕ C). 证明：设a, b, c分别表示∀x(x ∈ A)、∀x(x ∈ B)、∀x(x ∈ C)，则∀x，有： x ∈ (A ⊕ B) ⊕ C ⇔ (x ∈ A ⊕ B ∧ x / ∈ C) ∨ (x / ∈ A ⊕ B ∧ x ∈ C) ⇔ (((a ∧ ¬b) ∨ (¬a ∧ b)) ∧ ¬c) ∨ (¬((a ∧ ¬b) ∨ (¬a ∧ b)) ∧ c) ⇔ (¬a ∧ ¬b ∧ c) ∨ (¬a ∧ b¬c) ∨ (a ∧ ¬b ∧ ¬c) ∨ (a ∧ b ∧ c) ⇔ m1 ∨ m2 ∨ m4 ∨ m7 x ∈ A ⊕ (B ⊕ C) ⇔ · · · ⇔ (¬a ∧ ¬b ∧ c) ∨ (¬a ∧ b¬c) ∨ (a ∧ ¬b ∧ ¬c) ∨ (a ∧ b ∧ c) ⇔ m1 ∨ m2 ∨ m4 ∨ m7 ∴ (A ⊕ B) ⊕ C = A ⊕ (B ⊕ C)"
+      },
+      "elementId": "98"
+    }
+  },
+  {
+    "n": {
+      "identity": 99,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "求证：A ∩ (B ⊕ C) = (A ∩ B) ⊕ (A ∩ C) 证明： 右边 = ((A ∩ B)∩ ∼ (A ∩ C)) ∪ (∼ (A ∩ B) ∩ (A ∩ C)) = ((A ∩ B) ∩ (∼ A∪ ∼ C)) ∪ ((∼ A∪ ∼ B) ∩ (A ∩ C)) = (A ∩ B∩ ∼ A) ∪ (A ∩ B∩ ∼ C) ∪ (A ∩ C∩ ∼ A) ∪ (A ∩ C∩ ∼ B) = (A ∩ B∩ ∼ C) ∪ (A ∩ C∩ ∼ B) = A ∩ ((B∩ ∼ C) ∪ (∼ B ∩ C)) = A ∩ ((B − C) ∪ (C − B)) = A ∩ (B ⊕ C)"
+      },
+      "elementId": "99"
+    }
+  },
+  {
+    "n": {
+      "identity": 100,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "错位排列的计数问题: 设i1i2 · · · in是1, 2, · · · , n这n个数的排列. 如果 排在第i位的数都不等于i，其中i = 1, 2, · · · , n，则称这个排列为错位排 列. 将n个数的不同错位排列个数记作Dn，证 明Dn = n! [1 − 1 1! + 1 2! − · · · + (−1)n 1 n! ] 证明: 先划分集合，设第i位刚好是i的排列的集合为Ai， 则|Ai| = (n − 1)! 则Dn = |A1 ∩ A2 · · · ∩An|，根据包含排斥原理，有 Dn = n! − n(n − 1)! + C2 n(n − 2)! − C3 n(n − 3)! + · · · + (−1)nCn n = Dn = n! [ 1− 1 1! + 1 2! − · · · + (−1)n 1 n! ]"
+      },
+      "elementId": "100"
+    }
+  },
+  {
+    "n": {
+      "identity": 101,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "某班有25名学生，其中12人会打排球，6人会打网球，14人会打篮 球，6人会打排球和篮球，5人会打网球和篮球，还有2人会打3种球. 而会打网球的人都会打另一种球，求不会打这3种球的人数. 解: 设会打排球、网球和篮球的学生集合分别为A、B和C，则有 |A| = 12,|B| = 6,|C| = 14,|S| = 25 |A ∩ C| = 6,|B ∩ C| = 5,|A ∩ B ∩ C| = 2 根据“6个会打网球的人都会打另一种球”，推算 出|A ∩ B| = (6 − 5) + 2 = 3 ∴ |A ∩ B ∩ C| = 25 − (12 + 6 + 14) + (6 + 5 + 3) − 2 = 5"
+      },
+      "elementId": "101"
+    }
+  },
+  {
+    "n": {
+      "identity": 102,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "2个集合: |A1 ∩ A2| = |S| − (|A1| + |A2|) + |A1 ∩ A2| 3个集合: |A1 ∩ A2 ∩ A3| = |S| − (|A1| + |A2| + |A3|) + (|A1 ∩ A2| + |A1 ∩ A3| + |A2 ∩ A3|) − |A1 ∩ A2 ∩ A3|"
+      },
+      "elementId": "102"
+    }
+  },
+  {
+    "n": {
+      "identity": 103,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "有100名学生，其中47名选修了Java语言，35名选修了网络安 全，23名同时选修了这两门课，问有多少学生这两门课都没有选 修？ 解: 设A和B分别代表选修了Java语言和选修了网络安全课的学生 集合，则有 |A − B| = |A| − |A ∩ B| = 47 − 23 = 24 |B − A| = |B| − |A ∩ B| = 35 − 23 = 12 ∴ |A ∪ B| = 24 + 23 + 12 = 59 ∴ | ∼ (A ∪ B)| = 100 − 59 = 41"
+      },
+      "elementId": "103"
+    }
+  },
+  {
+    "n": {
+      "identity": 104,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "设A = {{a}, {a, b}}，计算∪ ∪ A，∩ ∩ A和∩ ∪ A ∪ (∪ ∪ A − ∪ ∩ A). 解： ∪A = {a, b}，∩A = {a} ∪ ∪ A = a ∪ b，∩ ∩ A = a ∪ ∩ A = a，∩ ∪ A = a ∩ b ∩ ∪ A ∪ (∪ ∪ A − ∪ ∩ A) = (a ∩ b) ∪ ((a ∪ b) − a) = (a ∩ b) ∪ (b − a) = b"
+      },
+      "elementId": "104"
+    }
+  },
+  {
+    "n": {
+      "identity": 105,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "设A = {0, 1, 2}, B = {2, 3}，则有： A ⊕ B = {0, 1} ∪ {3} = {0, 1, 3} A ⊕ B = {0, 1, 2, 3} − {2} = {0, 1, 3}"
+      },
+      "elementId": "105"
+    }
+  },
+  {
+    "n": {
+      "identity": 106,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "n元集的所有子集的个数为:C0 n + C1 n + C2 n + · · · + Cn n = 2n."
+      },
+      "elementId": "106"
+    }
+  },
+  {
+    "n": {
+      "identity": 107,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "求集合A = {a, b, c}的全部子集 0元子集，Ø,有C0 3 个. 1元子集，{a}, {b}, {c}，有C1 3 个. 2元子集，{a, b}, {a, c}, {b, c}，有C2 3 个. 3元子集，{a, b, c}，有C3 3 个."
+      },
+      "elementId": "107"
+    }
+  },
+  {
+    "n": {
+      "identity": 108,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "C = {a, {a}, b, c, {{d}}, {d, e}}"
+      },
+      "elementId": "108"
+    }
+  },
+  {
+    "n": {
+      "identity": 109,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "列举法，列出所有的元素，如A = {1, 2, 3, 4} 概括法，给出集合中元素的属性，如B = {x|x = 2k, k = 1, 2, · · · }"
+      },
+      "elementId": "109"
+    }
+  },
+  {
+    "n": {
+      "identity": 110,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "N: 自然数集(包括0). Z, Q, R, C分别代表整数集、有理数集、实数集和复数集."
+      },
+      "elementId": "110"
+    }
+  },
+  {
+    "n": {
+      "identity": 111,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "所有自然数构成的集合. 广工所有男生构成的集合. 所有英文单词构成的集合."
+      },
+      "elementId": "111"
+    }
+  },
+  {
+    "n": {
+      "identity": 112,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "无向图"
+      },
+      "elementId": "112"
+    }
+  },
+  {
+    "n": {
+      "identity": 113,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "权威资料"
+      },
+      "elementId": "113"
+    }
+  },
+  {
+    "n": {
+      "identity": 114,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "半 结构化数据"
+      },
+      "elementId": "114"
+    }
+  },
+  {
+    "n": {
+      "identity": 115,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "结构化数据"
+      },
+      "elementId": "115"
+    }
+  },
+  {
+    "n": {
+      "identity": 116,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "复杂关系"
+      },
+      "elementId": "116"
+    }
+  },
+  {
+    "n": {
+      "identity": 117,
+      "labels": [
+        "description"
+      ],
+      "properties": {
+        "name": "知识实体"
+      },
+      "elementId": "117"
+    }
+  },
+  {
+    "n": {
+      "identity": 118,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "广东工业大学 自动化学院"
+      },
+      "elementId": "118"
+    }
+  },
+  {
+    "n": {
+      "identity": 119,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "DataBase（DB）"
+      },
+      "elementId": "119"
+    }
+  },
+  {
+    "n": {
+      "identity": 120,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "DataBase Management System (DBMS)"
+      },
+      "elementId": "120"
+    }
+  },
+  {
+    "n": {
+      "identity": 121,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "Structured Query Language (SQL)"
+      },
+      "elementId": "121"
+    }
+  },
+  {
+    "n": {
+      "identity": 122,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "Data Definition Language"
+      },
+      "elementId": "122"
+    }
+  },
+  {
+    "n": {
+      "identity": 123,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "Data Manipulation Language"
+      },
+      "elementId": "123"
+    }
+  },
+  {
+    "n": {
+      "identity": 124,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "Data Query Language"
+      },
+      "elementId": "124"
+    }
+  },
+  {
+    "n": {
+      "identity": 125,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "Data Control Language"
+      },
+      "elementId": "125"
+    }
+  },
+  {
+    "n": {
+      "identity": 126,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "show databases ;"
+      },
+      "elementId": "126"
+    }
+  },
+  {
+    "n": {
+      "identity": 127,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "select database() ;"
+      },
+      "elementId": "127"
+    }
+  },
+  {
+    "n": {
+      "identity": 128,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "create database [ if not exists ] 数据库名 [ default charset 字符集 ] [ collate 排序 规则 ] ;"
+      },
+      "elementId": "128"
+    }
+  },
+  {
+    "n": {
+      "identity": 129,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "drop database [ if exists ] 数据库名 ;"
+      },
+      "elementId": "129"
+    }
+  },
+  {
+    "n": {
+      "identity": 130,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "use 数据库名 ;"
+      },
+      "elementId": "130"
+    }
+  },
+  {
+    "n": {
+      "identity": 131,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "show tables;"
+      },
+      "elementId": "131"
+    }
+  },
+  {
+    "n": {
+      "identity": 132,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "desc 表名 ;"
+      },
+      "elementId": "132"
+    }
+  },
+  {
+    "n": {
+      "identity": 133,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "show create table 表名 ;"
+      },
+      "elementId": "133"
+    }
+  },
+  {
+    "n": {
+      "identity": 134,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "CREATE TABLE 表名( 字段1 字段1类型 [ COMMENT 字段1注释 ], 字段2 字段2类型 [COMMENT 字段2注释 ], 字段3 字段3类型 [COMMENT 字段3注释 ], ...... 字段n 字段n类型 [COMMENT 字段n注释 ] ) [ COMMENT 表注释 ] ;"
+      },
+      "elementId": "134"
+    }
+  },
+  {
+    "n": {
+      "identity": 135,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "ALTER TABLE 表名 ADD 字段名 类型 (长度) [ COMMENT 注释 ] [ 约束 ];"
+      },
+      "elementId": "135"
+    }
+  },
+  {
+    "n": {
+      "identity": 136,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "ALTER TABLE 表名 MODIFY 字段名 新数据类型 (长度);"
+      },
+      "elementId": "136"
+    }
+  },
+  {
+    "n": {
+      "identity": 137,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "ALTER TABLE 表名 CHANGE 旧字段名 新字段名 类型 (长度) [ COMMENT 注释 ] [ 约束 ];"
+      },
+      "elementId": "137"
+    }
+  },
+  {
+    "n": {
+      "identity": 138,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "ALTER TABLE 表名 DROP 字段名;"
+      },
+      "elementId": "138"
+    }
+  },
+  {
+    "n": {
+      "identity": 139,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "ALTER TABLE 表名 RENAME TO 新表名;"
+      },
+      "elementId": "139"
+    }
+  },
+  {
+    "n": {
+      "identity": 140,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "DROP TABLE [ IF EXISTS ] 表名;"
+      },
+      "elementId": "140"
+    }
+  },
+  {
+    "n": {
+      "identity": 141,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "INSERT INTO 表名 (字段名1, 字段名2, ...) VALUES (值1, 值2, ...);"
+      },
+      "elementId": "141"
+    }
+  },
+  {
+    "n": {
+      "identity": 142,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "INSERT INTO 表名 VALUES (值1, 值2, ...);"
+      },
+      "elementId": "142"
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "INSERT INTO 表名 VALUES (值1, 值2, ...), (值1, 值2, ...), (值1, 值2, ...) ;"
+      },
+      "elementId": "143"
+    }
+  },
+  {
+    "n": {
+      "identity": 144,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "UPDATE 表名 SET 字段名1 = 值1 , 字段名2 = 值2 , .... [ WHERE 条件 ] ;"
+      },
+      "elementId": "144"
+    }
+  },
+  {
+    "n": {
+      "identity": 145,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "DELETE FROM 表名 [ WHERE 条件 ] ;"
+      },
+      "elementId": "145"
+    }
+  },
+  {
+    "n": {
+      "identity": 146,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "SELECT 字段1, 字段2, 字段3 ... FROM 表名 ;"
+      },
+      "elementId": "146"
+    }
+  },
+  {
+    "n": {
+      "identity": 147,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "SELECT 字段1 [ 别名1 ] , 字段2 [ 别名2 ] ... FROM 表名;"
+      },
+      "elementId": "147"
+    }
+  },
+  {
+    "n": {
+      "identity": 148,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "SELECT DISTINCT 字段列表 FROM 表名;"
+      },
+      "elementId": "148"
+    }
+  },
+  {
+    "n": {
+      "identity": 149,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "SELECT 字段列表 FROM 表名 WHERE 条件列表 ;"
+      },
+      "elementId": "149"
+    }
+  },
+  {
+    "n": {
+      "identity": 150,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "SELECT 字段列表 FROM 表名 [ WHERE 条件 ] GROUP BY 分组字段名 [ HAVING 分组 后过滤条件 ];"
+      },
+      "elementId": "150"
+    }
+  },
+  {
+    "n": {
+      "identity": 151,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "select * from mysql.user;"
+      },
+      "elementId": "151"
+    }
+  },
+  {
+    "n": {
+      "identity": 152,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "CREATE USER '用户名'@'主机名' IDENTIFIED BY '密码';"
+      },
+      "elementId": "152"
+    }
+  },
+  {
+    "n": {
+      "identity": 153,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "ALTER USER '用户名'@'主机名' IDENTIFIED WITH mysql_native_password BY '新密码' ;"
+      },
+      "elementId": "153"
+    }
+  },
+  {
+    "n": {
+      "identity": 154,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "DROP USER '用户名'@'主机名' ;"
+      },
+      "elementId": "154"
+    }
+  },
+  {
+    "n": {
+      "identity": 155,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "可以将学位论文的全部或部分内容编入有关数据库 进行检索，并采用影印、缩印或扫描等复制手段保存、"
+      },
+      "elementId": "155"
+    }
+  },
+  {
+    "n": {
+      "identity": 156,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "料。对本文的研究做出重要贡献的个人和集体，均已在 论文中作了明确的说明并表示了谢意。本人完全意"
+      },
+      "elementId": "156"
+    }
+  },
+  {
+    "n": {
+      "identity": 157,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "集合运算的主要算律(部分) 分配律 A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C) A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C) 排中律: A∪ ∼ A = E 吸收律: A ∪ (A ∩ B) = A, A ∩ (A ∪ B) = A 德.摩根律 A − (B ∪ C) = (A − B) ∩ (A − C) A − (B ∩ C) = (A − B) ∪ (A − C) ∼ (B ∪ C) =∼ B∩ ∼ C ∼ (B ∪ C) =∼ B∩ ∼ C ∼ Ø = E, ∼ E = Ø"
+      },
+      "elementId": "157"
+    }
+  },
+  {
+    "n": {
+      "identity": 158,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "(包含排斥原理) 设S为有穷集，P1, P2, · · · , Pn是n个性质，S中的任何元素x或者具有性 质Pi，或者不具有性质Pi，两种情况必居其一. 令Ai表示S中具有性 质Pi的元素构成的子集，则S中不具有性质P1, P2, · · · , Pn的元素个数是: |A1 ∩ A2 ∩ · · · An| = |S| − n ∑ i=1 |Ai| + ∑ 1≤i<j≤n |Ai ∩ Aj| − ∑ 1≤i<j<k≤n |Ai ∩ Aj ∩ Ak| + · · · + (−1)n|A1 ∩ A2 ∩ · · · ∩ An|"
+      },
+      "elementId": "158"
+    }
+  },
+  {
+    "n": {
+      "identity": 159,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "广义交：设A为非空集合，A的所有元素的公共元素构成的集合称 作A的广义交，记作∩A，符号化为： ∩A = {x|∀z(z ∈ A → x ∈ z)}"
+      },
+      "elementId": "159"
+    }
+  },
+  {
+    "n": {
+      "identity": 160,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "广义并：设A为集合，A的元素的元素构成的集合称作A的广义 并，记作∪A，符号化为： ∪A = {x|∃z(z ∈ A ∧ x ∈ z)}"
+      },
+      "elementId": "160"
+    }
+  },
+  {
+    "n": {
+      "identity": 161,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "对称差：A ⊕ B = (A − B) ∪ (B − A) 对称差的另一种定义: A ⊕ B = (A − B) ∪ (B − A) = (A ∪ B) − (A ∩ B)"
+      },
+      "elementId": "161"
+    }
+  },
+  {
+    "n": {
+      "identity": 162,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "并集: A ∪ B = {x|x ∈ A ∨ x ∈ B}. 交集: A ∩ B = {x|x ∈ A ∧ x ∈ B}. 相对补集(差): A − B = {x|x ∈ A ∧ x / ∈ B}. 绝对补集: ∼ A = E − A = {x|x ∈ E ∧ x / ∈ A}. 多个集合的并: n ⋃ i=1 Ai = A1 ∪ A2 ∪ · · · ∪ An 多个集合的交: n ⋂ i=1 Ai = A1 ∩ A2 ∩ · · · ∩ An 推广到无穷多个集合的并和交: ∞ ⋃ i=1 Ai, ∞ ⋂ i=1 Ai"
+      },
+      "elementId": "162"
+    }
+  },
+  {
+    "n": {
+      "identity": 163,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "在一个具体问题中，如果所涉及的集合都是某个集合的子集，则称这 个集合为全全全集集集，记作E或U"
+      },
+      "elementId": "163"
+    }
+  },
+  {
+    "n": {
+      "identity": 164,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "设A为集合，把A的全体子集构成的集合称作A的幂集，记作P(A)或2A. 记作P(A) = {x|x ⊆ A}"
+      },
+      "elementId": "164"
+    }
+  },
+  {
+    "n": {
+      "identity": 165,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "不含任何元素的集合称作空空空集集集，记作Ø. 空集的形式化表示 为Ø = {x|x 6= x}"
+      },
+      "elementId": "165"
+    }
+  },
+  {
+    "n": {
+      "identity": 166,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "设A, B为集合，如果B ⊆ A且B 6= A，则称B是A的真真真子子子集集集，记作B ⊂ A"
+      },
+      "elementId": "166"
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "设A, B为集合，如果B中的每个元素都是A中的元素，则称B为A的子子子 集集集，记作B ⊆ A，也称A包含B或B被A包含"
+      },
+      "elementId": "167"
+    }
+  },
+  {
+    "n": {
+      "identity": 168,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "把一些事物汇集到一起组 成一个整体就称作集集集合合合，而这些事物就是这个集合的元元元素素素或成成成员员员"
+      },
+      "elementId": "168"
+    }
+  },
+  {
+    "n": {
+      "identity": 169,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "KB 话语探测 器"
+      },
+      "elementId": "169"
+    }
+  },
+  {
+    "n": {
+      "identity": 170,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "观点线索地图"
+      },
+      "elementId": "170"
+    }
+  },
+  {
+    "n": {
+      "identity": 171,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "知识论坛"
+      },
+      "elementId": "171"
+    }
+  },
+  {
+    "n": {
+      "identity": 172,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "知识建构"
+      },
+      "elementId": "172"
+    }
+  },
+  {
+    "n": {
+      "identity": 173,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "SSM 设计"
+      },
+      "elementId": "173"
+    }
+  },
+  {
+    "n": {
+      "identity": 174,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "Bootstrap"
+      },
+      "elementId": "174"
+    }
+  },
+  {
+    "n": {
+      "identity": 175,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "模型 LDA"
+      },
+      "elementId": "175"
+    }
+  },
+  {
+    "n": {
+      "identity": 176,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "Echarts"
+      },
+      "elementId": "176"
+    }
+  },
+  {
+    "n": {
+      "identity": 177,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "Neo4j"
+      },
+      "elementId": "177"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "Word2vec"
+      },
+      "elementId": "178"
+    }
+  },
+  {
+    "n": {
+      "identity": 179,
+      "labels": [
+        "grammar"
+      ],
+      "properties": {
+        "name": "TFIDF 算法"
+      },
+      "elementId": "179"
+    }
+  },
+  {
+    "n": {
+      "identity": 180,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "数据库"
+      },
+      "elementId": "180"
+    }
+  },
+  {
+    "n": {
+      "identity": 181,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "系统"
+      },
+      "elementId": "181"
+    }
+  },
+  {
+    "n": {
+      "identity": 182,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "数据库语句"
+      },
+      "elementId": "182"
+    }
+  },
+  {
+    "n": {
+      "identity": 183,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "SQL"
+      },
+      "elementId": "183"
+    }
+  },
+  {
+    "n": {
+      "identity": 184,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "SQL"
+      },
+      "elementId": "184"
+    }
+  },
+  {
+    "n": {
+      "identity": 185,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "SQL"
+      },
+      "elementId": "185"
+    }
+  },
+  {
+    "n": {
+      "identity": 186,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "SQL"
+      },
+      "elementId": "186"
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "187"
+    }
+  },
+  {
+    "n": {
+      "identity": 188,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "188"
+    }
+  },
+  {
+    "n": {
+      "identity": 189,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "189"
+    }
+  },
+  {
+    "n": {
+      "identity": 190,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "190"
+    }
+  },
+  {
+    "n": {
+      "identity": 191,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "191"
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "192"
+    }
+  },
+  {
+    "n": {
+      "identity": 193,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "193"
+    }
+  },
+  {
+    "n": {
+      "identity": 194,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "194"
+    }
+  },
+  {
+    "n": {
+      "identity": 195,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "195"
+    }
+  },
+  {
+    "n": {
+      "identity": 196,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "196"
+    }
+  },
+  {
+    "n": {
+      "identity": 197,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "197"
+    }
+  },
+  {
+    "n": {
+      "identity": 198,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "198"
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "199"
+    }
+  },
+  {
+    "n": {
+      "identity": 200,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "200"
+    }
+  },
+  {
+    "n": {
+      "identity": 201,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DDL"
+      },
+      "elementId": "201"
+    }
+  },
+  {
+    "n": {
+      "identity": 202,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DML"
+      },
+      "elementId": "202"
+    }
+  },
+  {
+    "n": {
+      "identity": 203,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DML"
+      },
+      "elementId": "203"
+    }
+  },
+  {
+    "n": {
+      "identity": 204,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DML"
+      },
+      "elementId": "204"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DML"
+      },
+      "elementId": "205"
+    }
+  },
+  {
+    "n": {
+      "identity": 206,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DML"
+      },
+      "elementId": "206"
+    }
+  },
+  {
+    "n": {
+      "identity": 207,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DQL"
+      },
+      "elementId": "207"
+    }
+  },
+  {
+    "n": {
+      "identity": 208,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DQL"
+      },
+      "elementId": "208"
+    }
+  },
+  {
+    "n": {
+      "identity": 209,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DQL"
+      },
+      "elementId": "209"
+    }
+  },
+  {
+    "n": {
+      "identity": 210,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DQL"
+      },
+      "elementId": "210"
+    }
+  },
+  {
+    "n": {
+      "identity": 211,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DQL"
+      },
+      "elementId": "211"
+    }
+  },
+  {
+    "n": {
+      "identity": 212,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DCL"
+      },
+      "elementId": "212"
+    }
+  },
+  {
+    "n": {
+      "identity": 213,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DCL"
+      },
+      "elementId": "213"
+    }
+  },
+  {
+    "n": {
+      "identity": 214,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DCL"
+      },
+      "elementId": "214"
+    }
+  },
+  {
+    "n": {
+      "identity": 215,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "DCL"
+      },
+      "elementId": "215"
+    }
+  },
+  {
+    "n": {
+      "identity": 216,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": ""
+      },
+      "elementId": "216"
+    }
+  },
+  {
+    "n": {
+      "identity": 217,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "每一页固定大小为16kb，B+树相比红黑树所存储的节点更多，因此页的层级更少，提高查询效率，减小占用空间"
+      },
+      "elementId": "217"
+    }
+  },
+  {
+    "n": {
+      "identity": 218,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "这是注释的测试"
+      },
+      "elementId": "218"
+    }
+  },
+  {
+    "n": {
+      "identity": 219,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "另 一 种思路 是 把 a、b、e 这 3 个 变量 本 身 改 成 a 和 b<e 的 形式 。 首 先 检 查 a 和 的 值 ， 如 果 a>b， 则 交换 a 和 b (利用 前 面 讲 过的 三 变量 交换 法 ) ， 接下 来检查 a 和 c， 最 后 检查 b 和 c， 程"
+      },
+      "elementId": "219"
+    }
+  },
+  {
+    "n": {
+      "identity": 220,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "读者 也 许 发 现 了 ， 如 果 a 为 真 ， 则 无 论 b 的 值 如 何，a ||b 均 为 真 。 换 句 话 说， 一 旦 发 现 a 为 真 ,就不 必 计 算 b 的"
+      },
+      "elementId": "220"
+    }
+  },
+  {
+    "n": {
+      "identity": 221,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "异 或 运算 ^ 代 替 加 法 和 减法 ， 它 还 可 以 进一步 简写 成 ae =~b^=a^=b。"
+      },
+      "elementId": "221"
+    }
+  },
+  {
+    "n": {
+      "identity": 222,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "可 以 将 这 种 方法 形象 地 比喻成 将 一 瓶 着 油 和 一 瓶 醋 借 助 一 个 空 瓶子 进行 交换 : 先 把 交 油 倒入 空 瓶 ， 然 后 将 醋 倒 进 原 来 的 次 油 瓶 中 ， 最 后 把 酱油 从 辅助 的 瓶子 中 倒 入 原来 的 酯 瓶 子 里 。 这 样 的 比喻 虽然形象 ， 但 是 初学 者 应当 注 意 它 和 真正 的 变量 交换 的 区 别 。"
+      },
+      "elementId": "222"
+    }
+  },
+  {
+    "n": {
+      "identity": 223,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "算 法竞赛 的 程序 应 当 只 做 3 件 事情 : 读 入 数据 、 计 算 结 果 、 打 印 输出 。 不 要 打印 提示信息 ，"
+      },
+      "elementId": "223"
+    }
+  },
+  {
+    "n": {
+      "identity": 224,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "其 次， 不 要 让 程序 “ 按任意 键 退出 ”例如 调用 system(“pause”)， 或 者 加 一个多余 的 getchar0) ，因 为 不 会 有 人 来“ 按 任意 键 ” 的 。 不 少 早期 的 C 语言 教材 会 建议 在 程序 的 最 后 加 这 样 一 条 语句 来 “观察 输出结果 ”， 但 注意 千 万 不要 在 算法竞赛 中 这 样 做"
+      },
+      "elementId": "224"
+    }
+  },
+  {
+    "n": {
+      "identity": 225,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "数 先“变 ”成 浮 点 数 ， 然 后 浮 点 数 - 浮 点 数 = 浮 点 数"
+      },
+      "elementId": "225"
+    }
+  },
+  {
+    "n": {
+      "identity": 226,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "，8/5 的 确切含义 是 8 除 以 5 所 得 商 值 的 整数 部"
+      },
+      "elementId": "226"
+    }
+  },
+  {
+    "n": {
+      "identity": 227,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "算 法 竞赛 的 核心 是 算法 。"
+      },
+      "elementId": "227"
+    }
+  },
+  {
+    "n": {
+      "identity": 228,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "我 曾 考虑 过 把 C 语言 和 算 法分 开讲 解， 一 本 书 讲 语言 ， 另 一 本书 讲 基础 算法 。 但 后 来 我 发 现， 其 实二 者 难以分 开 。"
+      },
+      "elementId": "228"
+    }
+  },
+  {
+    "n": {
+      "identity": 229,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "但 语言 毕竟只 是算法 竞赛 的 工具"
+      },
+      "elementId": "229"
+    }
+  },
+  {
+    "n": {
+      "identity": 230,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "我 开始 庆幸 自己 先 学 的 是 C 语言 一 一 在 我 购买 的 各 类 技术 书籍 中 ， 几乎全 部 使 用 的 是 C 语言 而 不 是 Pascal 语言 ， 尽 管 偶尔 有 用 Delphi 的 文章 ， 但 这 种 语言 似乎 除了 构建 漂亮 的 界面 比较 方便之 外 ， 并 没有 太 多 的 “技术 含量 ”。 我 始终 保持着 对 C 语言 的 熟 悉 ， 而 事实证 明 这 对 我 的 职业 生涯 发 挥 了 巨大 的 作用 。"
+      },
+      "elementId": "230"
+    }
+  },
+  {
+    "n": {
+      "identity": 231,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "包含性质的所有元素，且不能重复算，之后再用全集减去这些元素(排斥),得到不含这些性质的所有元素。"
+      },
+      "elementId": "231"
+    }
+  },
+  {
+    "n": {
+      "identity": 232,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "注意：集合中的元素可以无序，但不能重复！"
+      },
+      "elementId": "232"
+    }
+  },
+  {
+    "n": {
+      "identity": 233,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "红色：所需技术"
+      },
+      "elementId": "233"
+    }
+  },
+  {
+    "n": {
+      "identity": 234,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "蓝色：专业名词"
+      },
+      "elementId": "234"
+    }
+  },
+  {
+    "n": {
+      "identity": 235,
+      "labels": [
+        "comment"
+      ],
+      "properties": {
+        "name": "绿色：实体名词"
+      },
+      "elementId": "235"
+    }
+  },
+  {
+    "n": {
+      "identity": 236,
+      "labels": [
+        "others"
+      ],
+      "properties": {
+        "name": "根 据 不 同 的 实 际 需 求 ， 时 态 知 识 图 谱 可 被 表 示 为离散时 态 动 态 图 （ Ｄｉ ｓｃｒｅ ｔ ｅ Ｔ ｅ ｍ ｐ ｏ ｒ ａ ｌ Ｄ ｙ ｎ ａ ｍ ｉ ｃ Ｇ ｒ ａ ｐ ｈ ， 简 称 为 离 散 动 态 图 ） 或 连 续 时 态 动 态 图 （ Ｃ ｏ ｎ ｔ ｉ ｎ ｕ ｏ ｕ ｓ Ｔ ｅ ｍ ｐ ｏ ｒ ａ ｌ Ｄ ｙ ｎ ａ ｍ ｉ ｃ Ｇ ｒ ａ ｐ ｈ ， 简称为 连 续动 态 图 ） 两 种形式 ［ １ 气"
+      },
+      "elementId": "236"
+    }
+  },
+  {
+    "n": {
+      "identity": 237,
+      "labels": [
+        "others"
+      ],
+      "properties": {
+        "name": "知识图谱的构建方法主要有三种方式，即自顶 向下、自底向上和二者混合的方法。其中，业内最常 使用的是自底向上的构建方法，该方法从数据源中 自动或人工提取主题、属性和关系构建知识图谱的 模式。其主要的构建过程按照“知识获取———知识 表 示———知 识 存 储———知 识 可 视 化 ”的 步 骤 进 行［12］，本文在此构建过程的基础上，融入 DIKW 层 次结构的特点形成《山海经》知识图谱构建流程，如 图 3 所示。"
+      },
+      "elementId": "237"
+    }
+  },
+  {
+    "n": {
+      "identity": 238,
+      "labels": [
+        "others"
+      ],
+      "properties": {
+        "name": "知识结构网络化、网络结 构复杂、网络由三元组构成、数据主要由知识库承载 是知识图谱的四大基本特征［2］。"
+      },
+      "elementId": "238"
+    }
+  },
+  {
+    "n": {
+      "identity": 239,
+      "labels": [
+        "others"
+      ],
+      "properties": {
+        "name": "知识抽取则使用ｊｉｅｂａ分词工 具 对 文 献 题 目 进 行 分 词 处 理和词性标注，根据题目词性及内容的特点，为获取海洋 数值预报对象及其研究任务，筛选出题目中包含的名词及 动词，抽取出三 元 组 （名 词， 动 词， 名 词 ） 信 息。"
+      },
+      "elementId": "239"
+    }
+  },
+  {
+    "n": {
+      "identity": 240,
+      "labels": [
+        "others"
+      ],
+      "properties": {
+        "name": "近年来，基于知识图谱的推 荐 中 基 于 嵌 入 的 方 法 越 来 越 受 到 重 视［３］， Ｗａｎｇ 等［４］设 计 ＲｉｐｐｌｅＮｅｔ方法利用从知识图谱中 抽 取 的 实 体 节 点 所 相 连 的 节点嵌入表征来更新用户表征，由此进行推荐结果的预测。"
+      },
+      "elementId": "240"
+    }
+  },
+  {
+    "n": {
+      "identity": 241,
+      "labels": [
+        "others"
+      ],
+      "properties": {
+        "name": "本文基于 Python+Neo4j 搭建了问答系统， 作为人工客服的有益补充，能减缓一线运维人员的工作强度 和压力，提高运维效率和质量。"
+      },
+      "elementId": "241"
+    }
+  },
+  {
+    "n": {
+      "identity": 242,
+      "labels": [
+        "others"
+      ],
+      "properties": {
+        "name": "本文建立了 8 种问句类型，通过提取问句中的疑问 词与用户疑问词分类词典匹配后实现分类。问答系统基于分 类后提取的实体类别和实体进行解析后生成本体三元组，据 此构建 Cyper 语句进行描述，然后发送 Cyper 语句到 neo4j 图数据库查询。然后将查询返回数据与系统匹配提取的答案 模板进行整合，将最终解答回复给用户。"
+      },
+      "elementId": "242"
+    }
+  },
+  {
+    "n": {
+      "identity": 243,
+      "labels": [
+        "others"
+      ],
+      "properties": {
+        "name": "运行语句 :“MATCH (m:Keywords)<- [r:key_words]-(n:Maintenance) where m.name ='OA 移动 ' return distinct n.name, n.desc, n.instructions, n.department,n.telephone, n.cause, n.area, n.correlation”"
+      },
+      "elementId": "243"
+    }
+  },
+  {
+    "n": {
+      "identity": 244,
+      "labels": [
+        "others"
+      ],
+      "properties": {
+        "name": "知识图谱本质上是一种大型、结构化的语义知识库，以 符号形式描述客观世界的概念实体事件及其之间的关系 [11]。 通俗讲：知识图谱是由实体、关系和属性组成的一种数据结构。"
+      },
+      "elementId": "244"
+    }
+  },
+  {
+    "n": {
+      "identity": 245,
+      "labels": [
+        "others"
+      ],
+      "properties": {
+        "name": "算法能力层是所有运维业务管理功能实现的算法支撑， 是根据系统逻辑需要，基于知识图谱方法和数据层实现的实 体三元组抽取、推理过程。"
+      },
+      "elementId": "245"
+    }
+  }
+]

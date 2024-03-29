@@ -58,6 +58,7 @@ export default {
           // 2.登录失败，提示用户
           // elementUI还在Vue的原型链上添加了弹窗提示，$message属性
           if (res.status !== 0) {
+            console.log('啊？？？')
             return this.$message.error(res.message)
           }
           // 3.登录成功，提示用户

@@ -3,7 +3,6 @@ import store from '@/store'
 import router from '@/router'
 import { Message } from 'element-ui'
 
-// export const baseURL = 'http://cyhgraph.fun:9000'
 export const baseURL = 'http://127.0.0.1:9000'
 // 创建一个自定的axios方法(比原axios多了个基地址)
 // axios函数请求的url地址前面会被拼接基地址, 然后axios请求baseURL+url后台完整地址
@@ -35,13 +34,8 @@ myAxios.interceptors.response.use(function (response) {
   // 响应http状态码为 2xx,3xx 时触发成功的回调，形参中的 response 是“成功的结果”
   console.log('------响应拦截器-------')
   console.log(response)
-  // 如果返回的data里有状态码status并且不是0，说明token过期了，也要跳转到登录页面
-  if ('status' in response.data && response.data.status !== 0) {
-    store.commit('updateToken', '')
-    store.commit('updateUserInfo', {})
-    router.push('/login') // js无法获取this.$router，所以要引入router来跳转
-    Message.error('用户身份已过期~')
-  }
+  // 如果返回的data里有状态码status并且不是0，说明输入密码错误/查无此人
+  // 不过此部分代码在const res = await API()之后的部分进行处理，此处把response返回就行
   return response
 }, function (error) {
   // 响应状态码是 4xx,5xx 时触发失败的回调，形参中的 error 是“失败的结果”

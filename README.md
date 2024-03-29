@@ -37,7 +37,7 @@
 `mysql 8.0.36-0ubuntu0.22.04.1` `node 20.11.1`
 ### 3.1 数据收集和预处理
 **数据来源**  
-网上收集相关数据集（csv/xlsx格式）、obsidian、zotero、supermemo知识管理软件中的个人笔记
+网上收集相关数据集（csv/xlsx格式）、obsidian、zotero、supermemo知识管理软件中的个人笔记  
 **数据预处理**  
 对于网上数据集，若数据完整则无需进行预处理，否则推荐用pandas进行某些行列的筛选或修改  
 csv数据集展示：

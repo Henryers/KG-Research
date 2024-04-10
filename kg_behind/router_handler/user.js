@@ -21,7 +21,7 @@ exports.regUser = (req, res) => {
     return res.cc('用户名或密码不能为空！')
   }
   // 数据规格合法了，进行下一步的流程：检查用户名是否重复
-  const sql = `select * from kg_users where username=?`
+  const sql = 'select * from kg_users where username=?'
   db.query(sql, [userinfo.username], function (err, results) {
     // 执行 SQL 语句失败
     if (err) {
@@ -37,7 +37,7 @@ exports.regUser = (req, res) => {
     // 对用户的密码,进行 bcrype 加密，返回值是加密之后的密码字符串
     userinfo.password = bcrypt.hashSync(userinfo.password, 10) // (明文密码, 随机长度)、
     // 定义插入新用户的 SQL 语句
-    const sql = `insert into kg_users set ?`
+    const sql = 'insert into kg_users set ?'
     // 调用 db.query() 执行 SQL 语句
     db.query(sql, { username: userinfo.username, password: userinfo.password }, (err, results) => {
       // 执行 SQL 语句失败
@@ -58,7 +58,7 @@ exports.regUser = (req, res) => {
 exports.login = (req, res) => {
   const userinfo = req.body
   // 定义 SQL 语句
-  const sql = `select * from kg_users where username=?`
+  const sql = 'select * from kg_users where username=?'
   // 执行 SQL 语句查询用户的数据
   db.query(sql, userinfo.username, (err, results) => {
     // 执行 SQL 语句失败
@@ -80,7 +80,7 @@ exports.login = (req, res) => {
       status: 0,
       message: '登录成功！',
       // 为了方便客户端使用 Token，在服务器端直接拼接上 'Bearer ' 的前缀(注意空格不能丢！)
-      token: 'Bearer ' + tokenStr,
+      token: 'Bearer ' + tokenStr
     })
   })
   // res.send('login OK')

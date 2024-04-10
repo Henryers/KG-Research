@@ -31,10 +31,6 @@ exports.updateUserInfo = (req, res) => {
   // ------------------- 下面一堆注释别看了，本来req.body好好的，非要改成req.auth多此一举... -----------------------
   console.log(req)
   // console.log(req.auth)
-  // console.log(req.auth.id)
-  // const sanitizedAuth = Object.assign({}, req.auth);
-  // delete sanitizedAuth.iat;
-  // delete sanitizedAuth.exp;
   db.query(sql, [req.body, req.body.id], (err, results) => {
     // 执行 SQL 语句失败
     if (err) {

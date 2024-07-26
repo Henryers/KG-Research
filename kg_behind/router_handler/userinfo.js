@@ -10,6 +10,7 @@ exports.getUserInfo = (req, res) => {
   // 执行 SQL 语句，查询用户的数据
   // 注意：req 对象上的 user 属性，是 Token 解析成功，express-jwt 中间件帮我们挂载上去的
   // get没传数据怎么有req和token? 别忘了请求/my/要传headers,里面就有req: token！
+  console.log(req.auth)
   db.query(sql, req.auth.id, (err, results) => {
     // 执行 SQL 语句失败
     if (err) return res.cc(err)

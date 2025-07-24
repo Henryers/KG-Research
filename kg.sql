@@ -1,5 +1,5 @@
-create database kg_01;
-use kg_01;
+create database kg;
+use kg;
 create table kg_users(
     `id` int not null auto_increment,
     `username` varchar(255) not null,

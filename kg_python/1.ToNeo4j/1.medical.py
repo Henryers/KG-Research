@@ -6,7 +6,7 @@ import pandas as pd
 
 # 连接图数据库
 graph = Graph("bolt://localhost:7687/", auth=(
-    'neo4j', '20040111'), name='medical')
+    'neo4j', '20040111'), name='medical-db')
 
 # 提取医疗知识图谱的csv数据集文件
 df = pd.read_csv('../dataset/medical.csv')

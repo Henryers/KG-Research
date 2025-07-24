@@ -5,7 +5,7 @@ const db = mysql.createPool({
   host: '127.0.0.1',
   user: 'root',
   password: '20040111',
-  database: 'kg_01'
+  database: 'kg'
 })
 // 向外共享 db 数据库连接对象
 module.exports = db

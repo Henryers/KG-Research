@@ -50,8 +50,18 @@ export default {
         nodes: res1.kg_zotero,
         relationships: []
       }
-      const rels_zotero = res2.rels_zotero
-      const names = [rels_zotero]
+      // const rels_zotero = res2.rels_zotero
+      // 换成新的关系
+      const rels_creators = res2.rels_creators
+      const rels_abstractNote = res2.rels_abstractNote
+      const rels_publicationTitle = res2.rels_publicationTitle
+      const rels_libraryCatalog = res2.rels_libraryCatalog
+      const rels_date = res2.rels_date
+      const rels_url = res2.rels_url
+      const rels_language = res2.rels_language
+      const rels_tags = res2.rels_tags
+      const names = [rels_creators, rels_abstractNote, rels_publicationTitle, rels_libraryCatalog,
+        rels_date, rels_url, rels_language, rels_tags]
       // 遍历关系数组来构建关系
       for (let i = 0; i < names.length; i++) {
         for (let j = 0; j < names[i].length; j++) { // 遍历检查 rels_nation/rels_gender 等，拿到元素的第一个值(sub)
@@ -505,8 +515,8 @@ export default {
 <style scoped>
 #chart1 {
   margin: 40px;
-  width: 686px;
-  height: 500px;
+  width: 58%;
+  height: 600px;
 }
 
 .myInput {
@@ -522,13 +532,20 @@ button {
   font-size: 14px;
 }
 
+#info{
+  margin-top: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.1); /* 轻微的阴影效果 */
+}
+
 .node_title {
   margin-top: 30px;
   float: right;
   padding: 30px 20px 0 20px;
   width: 300px;
   height: 50px;
-  background-color: rgba(11, 186, 230, 0.688);
+  /* background-color: rgba(11, 186, 230, 0.688); */
   text-align: center;
   font-size: 25px;
   font-weight: bold;
@@ -541,7 +558,7 @@ button {
 .node_name {
   float: right;
   padding: 30px 20px 0 20px;
-  background-color: rgba(11, 186, 230, 0.688);
+  /* background-color: rgba(11, 186, 230, 0.688); */
   width: 300px;
   height: 50px;
   font-size: 20px;
@@ -556,7 +573,7 @@ button {
 .node_info {
   float: right;
   padding: 30px 20px 0 20px;
-  background-color: rgba(11, 186, 230, 0.688);
+  /* background-color: rgba(11, 186, 230, 0.688); */
   width: 300px;
   height: 350px;
   font-size: 16px;

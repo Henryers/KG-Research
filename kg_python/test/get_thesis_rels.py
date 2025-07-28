@@ -12,8 +12,8 @@ graph = Graph("bolt://localhost:7687/", auth=(
     'neo4j', '20040111'), name='zoteroThesis')
 
 df = pd.read_csv('../dataset/thesis_item_0725.csv')
-print(df.shape)  # 返回一个元组, (行数,列数)
-print(df.head())  # 默认返回csv数据框的前五行，便于用户快速浏览数据(也可以在()中输入数字，指定返回的行数)
+# print(df.shape)  # 返回一个元组, (行数,列数)
+# print(df.head())  # 默认返回csv数据框的前五行，便于用户快速浏览数据(也可以在()中输入数字，指定返回的行数)
 
 # 1.--------------------------------提取实体---------------------------------------
 
@@ -25,31 +25,26 @@ for each in df['title']:
     title.extend(each.split(','))
 # 列表元素全部添加完成后，将列表强转为集合形式，从而去除其中的重复元素
 title = set(title)
-print(title)  # 打印所有'标题'实体
 
 # 再提取别的列，思路同上
 creators = []
 for each in df['creators']:
     creators.extend(each.split(','))
 creators = set(creators)
-print(creators)
 
 abstractNote = []
 for each in df['abstractNote']:
     if isinstance(each, float):
-        print('抓住你啦！')
-        print(each)
+        ...
     else:
         abstractNote.extend(each.split(','))
 abstractNote = set(abstractNote)
-print(abstractNote)
 
 publicationTitle = []
 for each in df['publicationTitle']:
     if not isinstance(each, float):
         publicationTitle.extend(each.split(','))
 publicationTitle = set(publicationTitle)
-print(publicationTitle)
 
 date = []
 for each in df['date']:
@@ -57,40 +52,32 @@ for each in df['date']:
     each_str = str(each)
     date.append(each)
 date = set(date)
-print(date)
 
 language = []
 for each in df['language']:
     if not isinstance(each, float):
         language.extend(each.split(','))
 language = set(language)
-print(language)
 
 url = []
 for each in df['url']:
     if isinstance(each, float):
-        print('抓住你啦！')
-        print(each)
+        ...
     else:
         url.extend(each.split(','))
 url = set(url)
-print(url)
 
 libraryCatalog = []
 for each in df['libraryCatalog']:
     if not isinstance(each, float):
         libraryCatalog.extend(each.strip("[ ]").split(','))
 libraryCatalog = set(libraryCatalog)
-print(libraryCatalog)
 
 tags = []
 for each in df['tags']:
-    print(each)
     for item in eval(each):
-        print(item)
         tags.append(item)
 tags = set(tags)
-print(tags)
 
 
 # 2.--------------------------------提取关系（边）------------------------------------
@@ -113,7 +100,7 @@ for idx, row in df.iterrows():  # 按行遍历，拿到每一行的行号idx,和
 rels_creators = deduplicate(rels_creators)  # 对所有关系进行去重操作
 # 返回的 rels_creators 就是一个不含重复关系的列表，其中每个元素是形如 [title, creator] 的二元关系
 # 或者是[title, creator1],[title, creator2...] 的二元关系
-print(rels_creators)
+# print(rels_creators)
 
 # 构建别的关系，思路跟上面一样
 # 标题-摘要
@@ -123,7 +110,10 @@ for idx, row in df.iterrows():
         for each in row['abstractNote'].split(','):
             rels_abstractNote.append([row['title'], each])
 rels_abstractNote = deduplicate(rels_abstractNote)
-print(rels_abstractNote)
+print()
+print()
+# print(rels_abstractNote)
+
 # 标题-期刊
 rels_publicationTitle = []
 for idx, row in df.iterrows():
@@ -131,15 +121,22 @@ for idx, row in df.iterrows():
         for each in row['publicationTitle'].split(','):
             rels_publicationTitle.append([row['title'], each])
 rels_publicationTitle = deduplicate(rels_publicationTitle)
-print(rels_publicationTitle)
+print()
+print()
+# print(rels_publicationTitle)
+
 # 期刊-文库编目
 rels_libraryCatalog = []
 for idx, row in df.iterrows():
     if not isinstance(row['libraryCatalog'], float):
         for each in row['libraryCatalog'].split(','):
-            rels_libraryCatalog.append([row['publicationTitle'], each])
+            if not isinstance(row['publicationTitle'], float):
+                rels_libraryCatalog.append([row['publicationTitle'], each])
 rels_libraryCatalog = deduplicate(rels_libraryCatalog)
+print()
+print()
 print(rels_libraryCatalog)
+
 # 标题-日期
 rels_date = []
 for idx, row in df.iterrows():
@@ -148,7 +145,10 @@ for idx, row in df.iterrows():
     for each in date_str.split(','):
         rels_date.append([row['title'], each])
 rels_date = deduplicate(rels_date)
-print(rels_date)
+print()
+print()
+# print(rels_date)
+
 # 标题-网址
 rels_url = []
 for idx, row in df.iterrows():
@@ -156,7 +156,10 @@ for idx, row in df.iterrows():
         for each in row['url'].split(','):
             rels_url.append([row['title'], each])
 rels_url = deduplicate(rels_url)
-print(rels_url)
+print()
+print()
+# print(rels_url)
+
 # 标题-语言
 rels_language = []
 for idx, row in df.iterrows():
@@ -164,7 +167,10 @@ for idx, row in df.iterrows():
         for each in row['language'].split(','):
             rels_language.append([row['title'], each])
 rels_language = deduplicate(rels_language)
-print(rels_language)
+print()
+print()
+# print(rels_language)
+
 # 标题-标签
 rels_tags = []
 for idx, row in df.iterrows():
@@ -173,86 +179,7 @@ for idx, row in df.iterrows():
     for each in true_list:
         rels_tags.append([row['title'], each])
 rels_tags = deduplicate(rels_tags)
-print(rels_tags)
+print()
+print()
+# print(rels_tags)
 
-# 3.--------------------------------创建实体到neo4j------------------------------------
-# neo4j数据库清空，进行初始化
-graph.run('MATCH p=()-->() delete p')
-graph.run('MATCH (n) delete n ')
-
-# 创建title节点
-# 按行遍历，每次取出列表的一行(即一个字典)
-for each in title:
-    # 使用Node()语法创建节点，其中第一个参数为标签名，第二个参数为标签属性
-    node = Node('title', name=each)
-    graph.create(node)
-# 同理创建其他节点
-for each in creators:
-    node = Node('creators', name=each)
-    graph.create(node)
-    print('创建实体 {}'.format(each))
-for each in abstractNote:
-    node = Node('abstractNote', name=each)
-    graph.create(node)
-    print('创建实体 {}'.format(each))
-for each in publicationTitle:
-    node = Node('publicationTitle', name=each)
-    graph.create(node)
-    print('创建实体 {}'.format(each))
-for each in date:
-    each_str = str(each)
-    node = Node('date', name=each_str)
-    graph.create(node)
-    print('创建实体 {}'.format(each_str))
-for each in language:
-    node = Node('language', name=each)
-    graph.create(node)
-    print('创建实体 {}'.format(each))
-for each in url:
-    node = Node('url', name=each)
-    graph.create(node)
-    print('创建实体 {}'.format(each))
-for each in libraryCatalog:
-    node = Node('libraryCatalog', name=each)
-    graph.create(node)
-    print('创建实体 {}'.format(each))
-for each in tags:
-    node = Node('tags', name=each)
-    graph.create(node)
-    print('创建实体 {}'.format(each))
-
-
-# 4.--------------------------------创建关系到neo4j------------------------------------
-# 定义创建关系函数
-def create_relationship(start_node, end_node, edges, rel_type, rel_name):
-    # 5个参数分别为：起始节点，终止节点，关系，关系类型，关系属性名称name
-    '''创建关系函数'''
-    for edge in edges:  # 关系列表edges中的元素be like:   ['药物厂商','具体药物']
-        p = edge[0]  # 获取关系起始点的名称  be like: p='药物厂商'
-        q = edge[1]  # 获取关系终止点的名称  be like: p='具体药物'
-        # 创建关系的 Cypher 语句
-        query = "match(p:%s),(q:%s) where p.name='%s' and q.name='%s' create (p)-[rel:%s{name:'%s'}]->(q)" \
-                % (start_node, end_node, p, q, rel_type, rel_name)
-        # cypher语句be like:
-        # match(p:start_node),(q:end_node) where p.name=p and q.name=q
-        # //确保在相应标签中找到的两个具体节点名称跟p.q的一样，才符合要求
-        # create (p)-[rel:rel_type{name:'rel_name'}]->(q)
-        # //关系为rel_type,其name属性为rel_name
-        try:
-            graph.run(query)  # 每构建一条关系语句后，就直接尝试运行 Cypher 语句
-            print('创建关系 {}-{}->{}'.format(p, rel_type, q))
-        except Exception as e:  # Exception表示捕获所有异常，并将其打包为e
-            print(e)  # 将错误信息打印出来
-
-
-# 通过函数创建所有关系(执行语句在函数中以及出现)
-create_relationship('title', 'creators', rels_creators, 'creators', '文章作者')
-# 在title和creators两个标签中，根据rels_creators寻找能匹配上的两端节点，并进行关系创建连接
-# 其中关系名为'creators',关系属性为'文章作者'(下面关系同理)
-create_relationship('title', 'abstractNote', rels_abstractNote, 'abstractNote', '摘要')
-create_relationship('title', 'publicationTitle', rels_publicationTitle, 'publicationTitle', '期刊')
-create_relationship('publicationTitle', 'libraryCatalog', rels_libraryCatalog, 'libraryCatalog', '摘要')
-create_relationship('title', 'date', rels_date, 'date', '出版日期')
-create_relationship('title', 'url', rels_url, 'url', '对应网址')
-create_relationship('title', 'language', rels_language, 'language', '文章语言')
-create_relationship('title', 'tags', rels_tags, 'tags', '相关标签')

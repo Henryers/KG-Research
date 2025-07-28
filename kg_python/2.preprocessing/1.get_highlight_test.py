@@ -1,4 +1,6 @@
-# 提取zotero中高亮信息
+"""
+提取zotero中高亮信息
+"""
 
 from pyzotero import zotero
 

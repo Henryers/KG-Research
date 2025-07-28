@@ -9,16 +9,16 @@ import * as echarts from 'echarts'
 import { getGraph1API, getGraph2API } from '@/api'
 
 export default {
-  data () {
+  data() {
     return {
       myjson: ''
     }
   },
-  mounted () {
+  mounted() {
     this.makeRequest()
   },
   methods: {
-    async makeRequest () {
+    async makeRequest() {
       const { data: res1 } = await getGraph1API()
       const { data: res2 } = await getGraph2API()
       // 对 response.data 进行处理
@@ -26,8 +26,18 @@ export default {
         nodes: res1.kg_zotero,
         relationships: []
       }
-      const rels_zotero = res2.rels_zotero
-      const names = [rels_zotero]
+      // 换成新的关系
+      const rels_creators = res2.rels_creators
+      const rels_abstractNote = res2.rels_abstractNote
+      const rels_publicationTitle = res2.rels_publicationTitle
+      const rels_libraryCatalog = res2.rels_libraryCatalog
+      const rels_date = res2.rels_date
+      const rels_url = res2.rels_url
+      const rels_language = res2.rels_language
+      const rels_tags = res2.rels_tags
+
+      const names = [rels_creators, rels_abstractNote, rels_publicationTitle, rels_libraryCatalog,
+        rels_date, rels_url, rels_language, rels_tags]
       for (let i = 0; i < names.length; i++) {
         for (let j = 0; j < names[i].length; j++) { // 遍历检查 rels_nation/rels_gender 等，拿到元素的第一个值(sub)
           let l1 = 0

@@ -1,5 +1,7 @@
-# -------------- 数据库知识图谱 --------------
-# 利用pandas处理(4.mysql_csv.py预处理得到的)csv文件，提取其中的实体关系构建三元组，利用py2neo编写cypher语句存入neo4j
+"""
+数据库知识图谱
+利用pandas处理(2.4 mysql_csv.py预处理得到的) mysql.csv文件，提取其中的实体关系构建三元组，利用py2neo编写cypher语句存入neo4j
+"""
 
 from py2neo import Graph, Node
 import pandas as pd

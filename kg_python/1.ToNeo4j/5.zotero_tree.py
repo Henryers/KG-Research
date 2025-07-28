@@ -1,5 +1,7 @@
-# ------------- zotero知识图谱(有前端展示) -------------
-# 以树结构来展示zotero中的实体与关系图，构建三元组并存入neo4j
+"""
+zotero知识图谱(有前端展示)
+以树结构来展示zotero中的实体与关系图，构建三元组并存入neo4j
+"""
 
 from pyzotero import zotero
 from py2neo import Graph, Node

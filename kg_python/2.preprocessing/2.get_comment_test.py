@@ -1,4 +1,6 @@
-# 提取zotero中注释信息
+"""
+提取zotero中注释信息
+"""
 
 from pyzotero import zotero
 

@@ -1,5 +1,7 @@
-# -------------- 医疗知识图谱(有前端展示) -----------------
-# 利用pandas处理网上获取的medical.csv文件，提取其中的实体关系构建三元组，利用py2neo编写cypher语句存入neo4j
+"""
+医疗知识图谱(有前端展示)
+利用pandas处理网上获取的 medical.csv 文件，提取其中的实体关系构建三元组，利用py2neo编写cypher语句存入neo4j
+"""
 
 from py2neo import Graph, Node
 import pandas as pd

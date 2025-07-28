@@ -1,0 +1,50 @@
+'title': item['data']['title'],
+'creators': item['data']['creators'][0]['lastName'] + item['data']['creators'][0]['firstName'],
+'abstractNote': item['data']['abstractNote'].replace(',', '，'),
+'publicationTitle': item['data']['publicationTitle'],
+'date': item['data']['date'],
+'language': item['data']['language'],
+'url': item['data']['url'],
+'libraryCatalog': item['data']['libraryCatalog'],
+'tags': tags
+
+{
+  "key": "CQFLFXWJ",
+  "itemType": "preprint",
+  "title": "Denoising Diffusion Probabilistic Models",
+  "creators": [
+    {
+      "creatorType": "author",
+      "firstName": "Jonathan",
+      "lastName": "Ho"
+    },
+    {
+      "creatorType": "author",
+      "firstName": "Ajay",
+      "lastName": "Jain"
+    },
+    {
+      "creatorType": "author",
+      "firstName": "Pieter",
+      "lastName": "Abbeel"
+    }
+  ],
+  "abstractNote": "We present high quality image synthesis results using diffusion probabilistic models, a class of latent variable models inspired by considerations from nonequilibrium thermodynamics. Our best results are obtained by training on a weighted variational bound designed according to a novel connection between diffusion probabilistic models and denoising score matching with Langevin dynamics, and our models naturally admit a progressive lossy decompression scheme that can be interpreted as a generalization of autoregressive decoding. On the unconditional CIFAR10 dataset, we obtain an Inception score of 9.46 and a state-of-the-art FID score of 3.17. On 256x256 LSUN, we obtain sample quality similar to ProgressiveGAN. Our implementation is available at https://github.com/hojonathanho/diffusion",
+  "date": "2020-12-16",
+  "DOI": "10.48550/arXiv.2006.11239",
+  "url": "http://arxiv.org/abs/2006.11239",
+  "libraryCatalog": "arXiv.org",
+  "callNumber": "",
+  "rights": "",
+  "extra": "arXiv:2006.11239 [cs]",
+  "tags": [
+    {
+      "tag": "Computer Science - Machine Learning",
+      "type": 1
+    },
+    {
+      "tag": "Statistics - Machine Learning",
+      "type": 1
+    }
+  ],
+}

@@ -1,5 +1,7 @@
-# --------------------- 提取论文侧边条目，根据结构化数据，整理生成csv文件 ----------------------------
-# 本模块代码能在jupyter中运行并得到csv目标文件，在pycharm则不行，我也不知道为什么...
+"""
+提取论文侧边条目，根据结构化数据，整理生成csv文件
+本模块代码能在jupyter中运行并得到csv目标文件，在pycharm则不行，我也不知道为什么...
+"""
 
 import csv
 from pyzotero import zotero
@@ -51,7 +53,7 @@ for item in items:
         })
 
 # 指定要保存的文件名
-filename = '../dataset/thesis_item.csv'
+filename = '../dataset/thesis_item_0725.csv'
 
 # 打开文件并写入数据
 with open(filename, 'w', newline='', encoding='utf-8') as csvfile:

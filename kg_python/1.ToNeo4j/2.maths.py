@@ -1,5 +1,7 @@
-# -------------- 数学知识图谱 -----------------
-# 利用正则表达式来提取 obsidian 中笔记的实体和关系，构建三元组存入neo4j
+"""
+数学知识图谱
+利用正则表达式来提取 obsidian 中笔记的实体和关系，构建三元组存入neo4j
+"""
 
 import re
 from py2neo import Graph, Node

@@ -1,4 +1,6 @@
-# ------------ 提取zotero的高亮实体和关系，构建mysql.csv文件 --------------
+"""
+提取zotero的高亮实体和关系，构建mysql.csv文件
+"""
 
 from pyzotero import zotero
 from py2neo import Graph, Node
